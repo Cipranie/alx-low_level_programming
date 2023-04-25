@@ -1,6 +1,6 @@
 #include <stdlib.h>
 #include <time.h>
-#include <stdio>
+#include <stdio.h>
 /**
  * main  - A print the last five digits of a variable n
  * Return: 0 (success)
