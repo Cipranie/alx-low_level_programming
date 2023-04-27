@@ -1,4 +1,4 @@
-#include <stdio.n>
+#include <stdio.h>
 /**
  * main - A C programme to write the alphabets in lower case.
  * Return: 0 (success)
