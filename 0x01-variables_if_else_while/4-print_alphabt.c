@@ -1,6 +1,7 @@
 #include <stdio.h>
 /**
- * main - A C programme to write the alphabets in lower case and remove q and e.
+ * main - A C programme to write the alphabets
+ * in lower case and remove q and e.
  * Return: 0 (success)
  */
 int main(void)
