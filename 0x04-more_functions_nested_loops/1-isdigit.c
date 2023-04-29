@@ -1,11 +1,11 @@
-#include <stdio>
+#include <stdio.h>
 #include "main.h"
 
 /**
- * _isdigit - check if numbers are 0 - 9
- * @c: char to be checked
+ * _isdigit - A program that checks if numbers are 0 - 9
+ * @c: is the char to be checked
  *
- * Return: 0 or 1
+ * Return: 1 (success)
  */
 
 int _isdigit(int c)
